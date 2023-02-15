@@ -1,0 +1,2 @@
+# ocm
+Orienteering Competition Manager
